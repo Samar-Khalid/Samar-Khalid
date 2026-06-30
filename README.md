@@ -19,35 +19,27 @@
 
 ## **About Me**
 
-```python
-class SamarKhalid:
-    def __init__(self):
-        self.name = "Samar Khalid Zidan"
-        self.title = "AI Engineer | C++ Developer | Odoo Developer"
-        self.location = "Menoufia, Egypt"
-        self.education = "Pre Master - Menofia University"
-        self.gpa = "3.6/4.0 (89.93%)"
-        self.project_grade = "96% (Excellent)"
-        self.learners_trained = "1000+"
-        self.tv_appearances = "2"
-        self.certifications = "11+"
-        
-    def get_expertise(self):
-        return [
-            "Artificial Intelligence",
-            "Machine Learning", 
-            "Deep Learning",
-            "C++ Development",
-            "Odoo ERP",
-            "Data Science",
-            "Technical Training"
-        ]
-    
-    def say_hello(self):
-        return "Building Intelligent Solutions Through Data & AI"
-
-samar = SamarKhalid()
-print(samar.say_hello())
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     SAMAR KHALID ZIDAN                      │
+│                  AI Engineer | Developer                    │
+├─────────────────────────────────────────────────────────────┤
+│  📍 Location      │  Menoufia, Egypt                       │
+│  🎓 Education     │  Pre Master - Menofia University       │
+│  📊 GPA           │  3.6/4.0 (89.93%)                     │
+│  🏆 Project       │  96% (Excellent)                       │
+│  👥 Learners      │  1000+ Trained                         │
+│  📺 TV Shows      │  2 Appearances                         │
+│  📜 Certifications│  11+                                   │
+├─────────────────────────────────────────────────────────────┤
+│  EXPERTISE:                                                │
+│  ✦ Artificial Intelligence    ✦ Machine Learning           │
+│  ✦ Deep Learning              ✦ C++ Development            │
+│  ✦ Odoo ERP                   ✦ Data Science               │
+│  ✦ Technical Training         ✦ Generative AI              │
+├─────────────────────────────────────────────────────────────┤
+│  "Building Intelligent Solutions Through Data & AI"        │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
