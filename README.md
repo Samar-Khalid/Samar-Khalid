@@ -1,109 +1,131 @@
 <div align="center">
 
-# Samar Khalid
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=500&lines=AI+Engineer;C+++Developer;Odoo+Developer;Data+Science+Instructor&size=24" alt="Typing SVG" />
 
-### AI Engineer | C++ Developer | Odoo Developer | Data Science Instructor
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smar-5alid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smar-5alid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samar-Khalid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201201733269)
 
----
+<br>
 
-**AI Engineer, C++ Developer, Odoo Developer, and Data Science Instructor** with experience in delivering technical training in Python, Data Analytics, Machine Learning, and Artificial Intelligence.
-
-- **6000+** Learners Trained
-- **2** TV Appearances (Egyptian National Television)
-- **96%** Graduation Project Grade
-- **11+** Professional Certifications
+<img src="https://komarev.com/ghpvc/?username=Samar-Khalid&color=2C3E50&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-### **Areas of Expertise**
+## **About Me**
 
-| | | |
-|---|---|---|
-| Artificial Intelligence | Machine Learning | Data Science |
-| Data Analytics | Business Intelligence | Data Visualization |
-| Generative AI Applications | AI Agents & Agentic Workflows | Prompt Engineering |
-| AI Automation Workflows | Data Engineering | C++ Development |
-| Odoo ERP Development | Technical Training & Mentoring | Problem Solving |
+```python
+class SamarKhalid:
+    def __init__(self):
+        self.name = "Samar Khalid Zidan"
+        self.title = "AI Engineer | C++ Developer | Odoo Developer"
+        self.location = "Menoufia, Egypt"
+        self.education = "Pre Master - Menofia University"
+        self.gpa = "3.6/4.0 (89.93%)"
+        self.project_grade = "96% (Excellent)"
+        self.learners_trained = "1000+"
+        self.tv_appearances = "2"
+        self.certifications = "11+"
+        
+    def get_expertise(self):
+        return [
+            "Artificial Intelligence",
+            "Machine Learning", 
+            "Deep Learning",
+            "C++ Development",
+            "Odoo ERP",
+            "Data Science",
+            "Technical Training"
+        ]
+    
+    def say_hello(self):
+        return "Building Intelligent Solutions Through Data & AI"
 
----
-
-### **Education**
-
-| Degree | University | GPA |
-|---|---|---|
-| **Pre Master: Computer Science** | Menofia University | 3.6/4 (89.93%) |
-| **Bachelor's Degree** | Faculty of Computers & AI, Sadat City University | Excellent with Honors |
-
-**Graduation Project:** Deepfake Detection System | **Grade: Excellent (96%)** | Featured on Egyptian Satellite Television
-
----
-
-### **Professional Experience**
-
-| Role | Company | Focus |
-|---|---|---|
-| **AI & Python Developer** | National Company for Fertilizers and Chemical Pesticides | AI-powered solutions, automation workflows, business process optimization |
-| **C++ Developer** | Pirlent (Kazakhstan) | Windows and Web applications, OOP principles, database integration |
-| **Odoo Developer** | Freelance & Clients | Custom Odoo modules, ERP solutions, version migration |
-| **Programming Instructor** | WE | Python, AI, Machine Learning training |
-| **AI & Data Science Instructor** | Dev Byte | AI/ML training, 1000+ learners mentored |
-| **Teaching Assistant** | FCAI AlRyada University | Programming courses, lab sessions, student mentoring |
-
----
-
-### **Featured Projects**
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Deepfake Detection System** | AI-based solution to detect fake images and videos | Python, Deep Learning, Computer Vision, TensorFlow |
-| **Breast Cancer Prediction** | ML Classification Model | Python, Scikit-learn, Logistic Regression |
-| **Car Price Prediction** | Regression-Based Predictive Model | Python, Pandas, NumPy, Seaborn |
-| **Adventure Works Dashboard** | Interactive Sales Analytics | Power BI, SQL Server |
-| **Kickstarter Analysis** | Funding Trends Visualization | Tableau, SQL Server |
-| **Facebook Graph API** | Social Media Data Extraction | Power BI, Graph API |
-
----
-
-### **Technical Skills**
-
-```
-Programming Languages : Python, C++, Java, SQL
-AI Technologies       : OpenAI API, RAG, AI Agents, Generative AI
-Data Science          : Pandas, NumPy, Scikit-Learn, Classification, Regression
-Data Engineering      : SQL, Database Design, ETL Concepts
-Data Analytics        : Power BI, Tableau, Dashboard Development
-ERP Development       : Odoo ERP, Custom Modules, Version Migration
-Web Development       : HTML5, CSS3, JavaScript, Bootstrap
-Design Tools          : Adobe Illustrator, Photoshop, Premiere, XD, Figma
-Cloud & Platforms     : AWS Cloud Foundations, Git, GitHub
+samar = SamarKhalid()
+print(samar.say_hello())
 ```
 
 ---
 
-### **Certifications**
+## **GitHub Stats**
 
-| Certification | Provider |
-|---|---|
-| AWS Academy Cloud Foundations | Amazon Web Services |
-| Power BI Development | ITI |
-| Machine Learning / Artificial Intelligence | ITI |
-| Introduction to Web Development | ITI |
-| Introduction to SQL Databases | Mahara Tech |
-| HCAI AI Course | Huawei |
-| Introduction to Python | DataCamp |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samar-Khalid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samar-Khalid&theme=radical&hide_border=true" width="48%">
+
+</div>
 
 ---
 
-### **Media Recognition**
+## **Featured Projects**
 
-- **Future of Egypt** - Egyptian Satellite Channel | Featured guest discussing AI research and Deepfake Detection
-- **AI & Deepfake Detection** - Egyptian National Television | Discussing graduation project and AI applications
+<div align="center">
+
+[![Deepfake Detection](https://github-readme-stats.vercel.app/api/pin?username=Samar-Khalid&repo=Deepfake-Detection-System&theme=radical&hide_border=true)](https://github.com/Samar-Khalid)
+[![Breast Cancer](https://github-readme-stats.vercel.app/api/pin?username=Samar-Khalid&repo=Breast-Cancer-Prediction&theme=radical&hide_border=true)](https://github.com/Samar-Khalid)
+[![Car Price](https://github-readme-stats.vercel.app/api/pin?username=Samar-Khalid&repo=Car-Price-Prediction&theme=radical&hide_border=true)](https://github.com/Samar-Khalid)
+[![Adventure Works](https://github-readme-stats.vercel.app/api/pin?username=Samar-Khalid&repo=AdventureWorks-Power-BI&theme=radical&hide_border=true)](https://github.com/Samar-Khalid)
+
+</div>
+
+---
+
+## **Technical Skills**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## **Certifications**
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ITI](https://img.shields.io/badge/ITI-Power%20BI-00A651?style=for-the-badge&logo=microsoft&logoColor=white)
+![ITI](https://img.shields.io/badge/ITI-Machine%20Learning-00A651?style=for-the-badge&logo=microsoft&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-AI%20Course-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![DataCamp](https://img.shields.io/badge/DataCamp-Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+
+</div>
+
+---
+
+## **Media Recognition**
+
+<div align="center">
+
+![TV](https://img.shields.io/badge/Future+of+Egypt-Egyptian+Satellite+Channel-blue?style=for-the-badge&logo=tv&logoColor=white)
+![TV](https://img.shields.io/badge/AI+%26+Deepfake+Detection-Egyptian+National+Television-red?style=for-the-badge&logo=microphone&logoColor=white)
+
+</div>
 
 ---
 
@@ -111,8 +133,13 @@ Cloud & Platforms     : AWS Cloud Foundations, Git, GitHub
 
 ### **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smar-5alid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smar-5alid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samar-Khalid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vercel&logoColor=white)](https://samar-khalid.github.io/Samar_Khalid_Portfolio-/)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
