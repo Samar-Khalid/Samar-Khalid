@@ -1,128 +1,54 @@
 # Hi, I'm Samar 👋
 
-### AI Engineer | Enterprise Systems | Business Intelligence
+**AI Engineer | Enterprise Systems | Business Intelligence**
 
 ---
 
-🔭 **I build AI-powered solutions for enterprise manufacturing systems.**
+I build AI-powered solutions for enterprise manufacturing systems. Right now I'm focused on turning raw production data into something actually useful — dashboards, predictions, reports that people can act on.
 
-I specialize in transforming raw enterprise data into intelligent, actionable insights — combining **AI/ML**, **ERP systems**, and **Business Intelligence** to drive smarter manufacturing decisions.
-
----
-
-## 💡 What I Do
-
-```
-Enterprise Data → AI Models → Intelligent Dashboards → Better Decisions
-```
-
-- 🤖 **AI for Manufacturing** — Predictive analytics, anomaly detection, demand forecasting
-- 🏭 **ERP Integration** — Odoo customization, data extraction, workflow automation
-- 📊 **Business Intelligence** — NL2SQL, automated reporting, KPI monitoring
-- 🔧 **Enterprise Software** — Building tools that bridge AI and real business operations
+My background is in Python, ERP systems (Odoo), and data analytics. I'm currently building **Prism**, an analytics platform that lets you query manufacturing data using natural language.
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm working on
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | Python, SQL, TypeScript |
-| **AI/ML** | OpenAI, LangChain, scikit-learn, pandas |
-| **Backend** | FastAPI, PostgreSQL, Redis |
-| **ERP** | Odoo (Python), REST APIs |
-| **BI** | Power BI, Grafana, Streamlit |
-| **DevOps** | Docker, Git, Linux |
+**Prism Analytics** — an AI platform for manufacturing data. Think NL2SQL, anomaly detection, demand forecasting. Still early stage but getting there.
+
+**Codex Enterprise** — a framework for building enterprise apps. Trying to make it easier to add AI capabilities to existing business systems.
+
+**AI BI Learning** — my learning notes and exercises. SQL, Python, ML, Power BI. Mostly for myself but figured others might find them useful.
 
 ---
 
-## ⭐ Featured Projects
+## Tech I use
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Prism Analytics** | AI-powered manufacturing analytics platform | 🔨 Building |
-| **Prism Enterprise Benchmark** | Synthetic benchmark for enterprise AI | 🔨 Building |
-| **Codex Enterprise** | Enterprise application framework | 🔨 Building |
-| **Prism Data Generator** | Synthetic data generator for manufacturing | 🔨 Building |
-| **Odoo Custom Modules** | Custom Odoo ERP modules | 🔨 Building |
-| **AI BI Learning** | Learning path for AI + BI | 📚 In Progress |
+- **Languages:** Python, SQL
+- **AI/ML:** OpenAI, LangChain, scikit-learn, pandas
+- **Backend:** FastAPI, PostgreSQL
+- **ERP:** Odoo (custom modules)
+- **BI:** Power BI, Streamlit
+- **Tools:** Docker, Git
 
 ---
 
-## 📂 Project Categories
+## Experience
 
-### 🏭 Enterprise AI
-Solutions that bring AI into real manufacturing environments.
+I've worked on:
+- Odoo ERP customization and integration
+- Building ML models for predictive analytics
+- Creating BI dashboards for manufacturing KPIs
+- Developing AI assistants for enterprise systems
 
-```
-Prism-Analytics
-Prism-Enterprise-Benchmark
-Prism-Data-Generator
-Prism-Question-Bank
-```
-
-### 📦 ERP
-Odoo customization and ERP integration.
-
-```
-Odoo-Learning
-Odoo-Custom-Modules
-```
-
-### 🔧 Enterprise Applications
-Tools and platforms for business operations.
-
-```
-Codex-Enterprise
-```
-
-### 🧠 AI Research
-Exploring AI capabilities for business.
-
-```
-NL2SQL
-NL2VIS
-LLM-Business-Intelligence
-```
-
-### 📚 Learning
-Continuous skill development.
-
-```
-SQL-Mastery
-FastAPI-Learning
-Docker-Playbook
-Python-Notes
-```
+Currently working at N.Fert as an AI Engineer, building intelligent solutions for manufacturing operations.
 
 ---
 
-## 🎯 Current Focus
+## Let's connect
 
-Building **Prism** — an AI-powered analytics platform that:
-- Transforms natural language into SQL queries
-- Generates intelligent manufacturing reports
-- Detects anomalies in production data
-- Forecasts inventory and demand
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/smar-5alid)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Samar-Khalid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
----
-
-## 💬 About Me
-
-> *"I believe AI shouldn't just be impressive — it should be useful. My goal is to build AI systems that solve real enterprise problems, not just demo problems."*
-
----
-
-<!---
-🌱 Currently learning: Advanced LLM applications, Manufacturing AI patterns
-🎯 2026 Goal: Deploy Prism in a real manufacturing environment
-📊 Fun fact: I think in SQL queries
---->
+*"AI should solve real problems, not just demo problems."*
