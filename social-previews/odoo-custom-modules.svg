@@ -1,0 +1,45 @@
+<svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#grad1)"/>
+  
+  <!-- Corner decorations -->
+  <path d="M40 40 L140 40 L140 50 L50 50 L50 140 L40 140 Z" fill="#875A7B" opacity="0.3"/>
+  <path d="M1240 40 L1140 40 L1140 50 L1230 50 L1230 140 L1240 140 Z" fill="#875A7B" opacity="0.3"/>
+  <path d="M40 600 L140 600 L140 590 L50 590 L50 500 L40 500 Z" fill="#875A7B" opacity="0.3"/>
+  <path d="M1240 600 L1140 600 L1140 590 L1230 590 L1230 500 L1240 500 Z" fill="#875A7B" opacity="0.3"/>
+  
+  <!-- Logo -->
+  <text x="640" y="180" font-family="Arial, sans-serif" font-size="72" fill="#875A7B" text-anchor="middle">🏭</text>
+  
+  <!-- Title -->
+  <text x="640" y="280" font-family="Arial, sans-serif" font-size="52" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Odoo Custom Modules</text>
+  
+  <!-- Subtitle -->
+  <text x="640" y="340" font-family="Arial, sans-serif" font-size="28" fill="#8B949E" text-anchor="middle">Custom ERP Solutions for Manufacturing</text>
+  
+  <!-- Tech badges -->
+  <rect x="340" y="380" width="100" height="36" rx="6" fill="rgba(135,90,123,0.1)" stroke="#875A7B" stroke-width="1"/>
+  <text x="390" y="404" font-family="Arial, sans-serif" font-size="16" fill="#875A7B" text-anchor="middle">Odoo 17</text>
+  
+  <rect x="460" y="380" width="100" height="36" rx="6" fill="rgba(135,90,123,0.1)" stroke="#875A7B" stroke-width="1"/>
+  <text x="510" y="404" font-family="Arial, sans-serif" font-size="16" fill="#875A7B" text-anchor="middle">Python</text>
+  
+  <rect x="580" y="380" width="120" height="36" rx="6" fill="rgba(135,90,123,0.1)" stroke="#875A7B" stroke-width="1"/>
+  <text x="640" y="404" font-family="Arial, sans-serif" font-size="16" fill="#875A7B" text-anchor="middle">PostgreSQL</text>
+  
+  <rect x="720" y="380" width="80" height="36" rx="6" fill="rgba(135,90,123,0.1)" stroke="#875A7B" stroke-width="1"/>
+  <text x="760" y="404" font-family="Arial, sans-serif" font-size="16" fill="#875A7B" text-anchor="middle">AI</text>
+  
+  <!-- Tagline -->
+  <text x="640" y="480" font-family="Arial, sans-serif" font-size="22" fill="#3FB950" text-anchor="middle">Extend Your ERP with AI</text>
+  
+  <!-- Author -->
+  <text x="640" y="560" font-family="Arial, sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">by Samar Khalid</text>
+</svg>
