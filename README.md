@@ -6,23 +6,15 @@
 <a href="https://www.linkedin.com/in/smar-5alid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Samar-Khalid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:samar00khaled0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+201201733269"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/201201733269"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://samar-khalid.github.io/Samar_Khalid_Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
-
----
-
-<h2 align="center">🚀 Building AI-Powered Solutions</h2>
-
-<p align="center">
-  Building Intelligent Systems • Transforming Data into Insights • Empowering Next Gen AI Engineers
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-> Results-driven AI Engineer and Teaching Assistant with a passion for building intelligent systems that solve real-world problems. Currently pursuing my M.Sc. in Computer Science at Menoufia University, I specialize in machine learning, deep learning, and AI agentic workflows.
+AI Engineer at N.Fert, building AI-powered solutions for manufacturing. I also teach AI/ML courses at AlRyada University. Currently pursuing M.Sc. in Computer Science at Menoufia University.
 
 ### My Journey
 ```
@@ -30,7 +22,7 @@ ITI → Teaching Assistant (AlRyada University) → Freelance → Part-time: Pir
 ```
 
 ### Key Highlights
-- 🎓 **M.Sc. Computer Science** candidate at Menouﬁa University (3.6/4.0 GPA)
+- 🎓 **M.Sc. Computer Science** candidate at Menoufia University (3.6/4.0 GPA)
 - 👨‍🏫 **1000+ Learners** mentored in AI/ML/Data Science
 - 📺 **2 TV Appearances** (Future of Egypt & Egyptian National TV)
 - 🏆 **11+ Professional Certifications** (AWS, ITI, Huawei, DataCamp, Google, IBM, Meta)
@@ -167,15 +159,13 @@ Custom Odoo ERP modules with AI integration for manufacturing operations.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-Khalid&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samar-Khalid&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/Samar-Khalid)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-Khalid&theme=radical&layout=compact&hide_border=true)](https://github.com/Samar-Khalid)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Samar-Khalid&theme=radical&hide_border=true)](https://github.com/Samar-Khalid)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-Khalid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -188,15 +178,7 @@ Custom Odoo ERP modules with AI integration for manufacturing operations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smar-5alid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samar-Khalid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar00khaled0@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201201733269)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201201733269)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://samar-khalid.github.io/Samar_Khalid_Portfolio-/)
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ and ☕**
 
 </div>
