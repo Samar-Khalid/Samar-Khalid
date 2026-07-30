@@ -25,11 +25,11 @@ AI Engineer at **N.Fert** building AI-powered manufacturing solutions. Teaching 
 
 **🔮 Prism Analytics** — AI manufacturing analytics with NL2SQL, anomaly detection, and intelligent reporting.  
 `FastAPI` `PostgreSQL` `OpenAI` `Docker`  
-[Repository](https://github.com/Samar-Khalid/Prism-Analytics)
+[Repository](https://github.com/Samar-Khalid/Prism-Enterprise-Analytics)
 
 **⚡ Codex Enterprise** — Modular framework for building AI-powered enterprise applications.  
 `FastAPI` `PostgreSQL` `Redis` `Docker`  
-[Repository](https://github.com/Samar-Khalid/Codex-Enterprise)
+[Repository](https://github.com/Samar-Khalid/Codex-Enterprise-AI-Platform)
 
 **📊 Prism Enterprise Benchmark** — 100% synthetic benchmark dataset for evaluating AI on manufacturing scenarios.  
 `Python` `CSV` `JSON`  
