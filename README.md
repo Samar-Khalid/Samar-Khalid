@@ -21,21 +21,21 @@ AI Engineer at **N.Fert** building AI-powered manufacturing solutions. Teaching 
 
 ---
 
-### Featured Projects
+### 🔬 Featured Research — M.Sc. Paper 1
 
-**🔮 Prism Analytics** — AI manufacturing analytics with NL2SQL, anomaly detection, and intelligent reporting.  
-`FastAPI` `PostgreSQL` `OpenAI` `Docker`  
-[Repository](https://github.com/Samar-Khalid/Prism-Enterprise-Analytics)
+**Detecting Ambiguity Before SQL Generation** — an operational taxonomy and baseline evaluation for ambiguity in NL2SQL questions.
 
-**⚡ Codex Enterprise** — Modular framework for building AI-powered enterprise applications.  
-`FastAPI` `PostgreSQL` `Redis` `Docker`  
-[Repository](https://github.com/Samar-Khalid/Codex-Enterprise-AI-Platform)
+- **24-code taxonomy** — 20 ambiguity codes across 8 families, plus 4 unanswerability codes
+- **45-question human-annotated reference set** with 26 annotated spans
+- **Reproducible evaluation** — dataset, detector, and audit scripts released as a public artifact
 
-**📊 Prism Enterprise Benchmark** — 100% synthetic benchmark dataset for evaluating AI on manufacturing scenarios.  
-`Python` `CSV` `JSON`  
-[Repository](https://github.com/Samar-Khalid/Prism-Enterprise-Benchmark)
+📦 [Paper-1-NL2SQL-Ambiguity](https://github.com/Samar-Khalid/Paper-1-NL2SQL-Ambiguity) · 📄 Manuscript prepared for **EDBT 2027 (EA&B track)**
 
-> Exploring all projects? → [Repositories](https://github.com/Samar-Khalid?tab=repositories)
+---
+
+### Explore
+
+🌐 [Portfolio](https://samar-khalid.github.io/) · 📂 [All repositories](https://github.com/Samar-Khalid?tab=repositories)
 
 ---
 
