@@ -12,7 +12,7 @@
 
 ### About Me
 
-Currently a Teaching Assistant at the **Faculty of Computers and Information, Ain Shams University**. Formerly an AI Engineer at **N.Fert** (AI-powered manufacturing solutions) and a Teaching Assistant at **AlRyada University**. M.Sc. Computer Science candidate at **Menoufia University** (3.6/4.0 GPA).
+Currently a Teaching Assistant at the **Faculty of Computers and Information, Ain Shams University**, and an M.Sc. Computer Science candidate at **Ain Shams University**. Formerly an AI Engineer at **N.Fert** (AI-powered manufacturing solutions) and a Teaching Assistant at **AlRyada University**. B.Sc. GPA **3.6/4.0** — **Sadat City University**.
 
 - 👨‍🏫 Mentored **1000+** learners in AI/ML/Data Science
 - 📺 **2 TV appearances** (Future of Egypt & Egyptian National TV)
@@ -43,8 +43,9 @@ Currently a Teaching Assistant at the **Faculty of Computers and Information, Ai
 
 <p align="center">
   <img src="https://img.shields.io/badge/Teaching%20Assistant-Ain%20Shams%20University-2ea44f?style=flat-square" alt="Teaching Assistant at Ain Shams University - current">
+  <img src="https://img.shields.io/badge/M.Sc.%20CS%20candidate-Ain%20Shams%20University-3b4a5c?style=flat-square" alt="M.Sc. CS candidate at Ain Shams University">
+  <img src="https://img.shields.io/badge/B.Sc.%20GPA%203.6%2F4.0-Sadat%20City%20University-6f42c1?style=flat-square" alt="B.Sc. GPA 3.6/4.0 from Sadat City University">
   <img src="https://img.shields.io/badge/Former%20AI%20Engineer-N.Fert-0077B5?style=flat-square" alt="Former AI Engineer at N.Fert">
-  <img src="https://img.shields.io/badge/M.Sc.%20CS%20candidate-Menoufia%20University-3b4a5c?style=flat-square" alt="M.Sc. CS candidate at Menoufia University">
 </p>
 
 ---
