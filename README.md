@@ -45,7 +45,6 @@ Currently a Teaching Assistant at the **Faculty of Computers and Information, Ai
   <img src="https://img.shields.io/badge/Teaching%20Assistant-Ain%20Shams%20University-2ea44f?style=flat-square" alt="Teaching Assistant at Ain Shams University - current">
   <img src="https://img.shields.io/badge/Former%20AI%20Engineer-N.Fert-0077B5?style=flat-square" alt="Former AI Engineer at N.Fert">
   <img src="https://img.shields.io/badge/M.Sc.%20CS%20candidate-Menoufia%20University-3b4a5c?style=flat-square" alt="M.Sc. CS candidate at Menoufia University">
-  <img src="https://img.shields.io/github/followers/Samar-Khalid?style=flat-square&label=Followers&color=1f6feb" alt="GitHub followers">
 </p>
 
 ---
