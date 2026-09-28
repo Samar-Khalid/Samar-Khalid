@@ -1,5 +1,5 @@
 <h1 align="center">👋 Samar Khalid Zidan</h1>
-<h3 align="center">AI Engineer · Teaching Assistant · Python Developer · M.Sc. CS Candidate</h3>
+<h3 align="center">Teaching Assistant · Python Developer · AI Engineer · M.Sc. CS Candidate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smar-5alid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
